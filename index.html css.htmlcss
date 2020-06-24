@@ -2,7 +2,7 @@
 <html>
 <head>
      <title>BIODATA 11-2</title>
-     <link rel="stylesheet" href="css. css">
+     <link rel="stylesheet" type="text/css" href="css. css">
 </head>
 <body>
      <h1>11-2 SMK-SMAK BOGOR</h1>
@@ -12,7 +12,7 @@
 <h2>My Biodata </h2>
 <p>
   <g>
-   <img src="imagess.jpg">
+   <img src="fifizakiyah.jpg">
   </g>
 <ul><li>Nama : fifi zakiyah</li></ul>
 <ul><li>TTL: bogor, 4 januari 2004</li></ul>
